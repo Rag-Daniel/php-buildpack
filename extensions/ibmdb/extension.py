@@ -15,8 +15,8 @@ PKGDOWNLOADS =  {
      'IBMDBCLIDRIVER1_DLURL': 'https://public.dhe.ibm.com/ibmdl/export/pub/software/data/db2/drivers/odbc_cli/{IBMDBCLIDRIVER1_DLFILE}',
     
     #IBM_DB Packages  
-    'IBM_DB2_VERSION': '1.9.9',
-    'IBM_DB2_REPOSITORY': 'https://github.com/ibmdb/php-buildpack',
+    'IBM_DB2_VERSION': '2.0.8',
+    'IBM_DB2_REPOSITORY': 'https://github.com/Rag-Daniel/php-buildpack',
     'IBM_DB2_DLFILE': 'ibm_db2-v{IBM_DB2_VERSION}.tar.gz',
     'IBM_DB2_DLURL': '{IBM_DB2_REPOSITORY}/raw/master/extensions/ibmdb/Binaries/{IBM_DB2_DLFILE}',
 
